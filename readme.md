@@ -1,4 +1,3 @@
-```markdown
 # Projeto Final - Git Flow
 
 ##  Sobre o Projeto
